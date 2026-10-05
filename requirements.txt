@@ -1,9 +1,0 @@
-streamlit
-sympy
-numpy
-anthropic
-openai
-google-genai
-# сурет режимі үшін (міндетті емес):
-# opencv-python
-# pytesseract
