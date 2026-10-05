@@ -1,0 +1,7 @@
+streamlit
+sympy
+numpy
+anthropic
+# сурет режимі үшін (міндетті емес):
+# opencv-python
+# pytesseract
