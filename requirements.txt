@@ -1,0 +1,7 @@
+streamlit
+sympy
+numpy
+google-genai
+# сурет режимі үшін (міндетті емес):
+# opencv-python
+# pytesseract
